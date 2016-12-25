@@ -1,4 +1,4 @@
-Projet réalisér avec Ionic2 , angularjs 2 et mongodb
+API pour recuperer l'information du personnel depuis mongodb avec expressjs
 =======
 
 1) Installation
@@ -12,3 +12,5 @@ Installer le module nodejs
     npm install
  
 Pointez vers le répertoire du projet puis tapez:
+    
+    node server.js
